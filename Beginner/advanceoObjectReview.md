@@ -20,4 +20,4 @@
 
 > There are different ways to use object destructuring: one way is the property value shorthand and another is destructured assignment.
 
-As with any concept, it is a good skill to learn how to use the documentation with objects!
+> As with any concept, it is a good skill to learn how to use the documentation with objects!
