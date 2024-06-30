@@ -4,7 +4,7 @@
 
 > The this keyword refers to the calling object and can be used to access properties of the calling object.
 
-Methods do not automatically have access to other internal properties of the calling object.
+> Methods do not automatically have access to other internal properties of the calling object.
 
 The value of this depends on where the this is being accessed from.
 
