@@ -6,7 +6,7 @@
 
 > Methods do not automatically have access to other internal properties of the calling object.
 
-The value of this depends on where the this is being accessed from.
+> The value of this depends on where the this is being accessed from.
 
 We cannot use arrow functions as methods if we want to access other internal properties.
 
