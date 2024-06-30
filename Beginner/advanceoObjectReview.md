@@ -8,7 +8,7 @@
 
 > The value of this depends on where the this is being accessed from.
 
-We cannot use arrow functions as methods if we want to access other internal properties.
+> We cannot use arrow functions as methods if we want to access other internal properties.
 
 JavaScript objects do not have built-in privacy, rather there are conventions to follow to notify other developers about the intent of the code.
 
