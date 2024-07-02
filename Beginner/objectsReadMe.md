@@ -1,6 +1,6 @@
 # Objects
 
-Objects store collections of key-value pairs.
+>Objects store collections of key-value pairs.
 
 Each key-value pair is a property—when a property is a function it is known as a method.
 
