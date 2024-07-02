@@ -4,7 +4,7 @@
 
 * Each key-value pair is a property—when a property is a function it is known as a method.
 
-An object literal is composed of comma-separated key-value pairs surrounded by curly braces.
+* An object literal is composed of comma-separated key-value pairs surrounded by curly braces.
 
 You can access, add or edit a property within an object by using dot notation or bracket notation.
 
