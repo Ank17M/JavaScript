@@ -6,7 +6,7 @@
 
 * An object literal is composed of comma-separated key-value pairs surrounded by curly braces.
 
-You can access, add or edit a property within an object by using dot notation or bracket notation.
+* You can access, add or edit a property within an object by using dot notation or bracket notation.
 
 We can add methods to our object literals using key-value syntax with anonymous function expressions as values or by using the new ES6 method syntax.
 
