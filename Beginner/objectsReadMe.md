@@ -12,7 +12,7 @@
 
 * We can navigate complex, nested objects by chaining operators.
 
-Objects are mutable—we can change their properties even when they’re declared with const.
+* Objects are mutable—we can change their properties even when they’re declared with const.
 
 Objects are passed by reference— when we make changes to an object passed into a function those changes are permanent.
 
