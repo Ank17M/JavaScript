@@ -10,7 +10,7 @@
 
 * We can add methods to our object literals using key-value syntax with anonymous function expressions as values or by using the new ES6 method syntax.
 
-We can navigate complex, nested objects by chaining operators.
+* We can navigate complex, nested objects by chaining operators.
 
 Objects are mutable—we can change their properties even when they’re declared with const.
 
