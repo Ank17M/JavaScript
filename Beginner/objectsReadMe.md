@@ -16,4 +16,4 @@
 
 * Objects are passed by reference— when we make changes to an object passed into a function those changes are permanent.
 
-We can iterate through objects using the For...in syntax.
+* We can iterate through objects using the For...in syntax.
