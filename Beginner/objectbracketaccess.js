@@ -6,6 +6,7 @@ let spaceship = {
    };
   
   let propName =  'Active Mission';
+
   
   // Write your code below
   let isActive = spaceship['Active Mission'];
