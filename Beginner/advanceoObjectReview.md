@@ -1,7 +1,7 @@
 # Advance Object Review
 
-> The object that a method belongs to is called the calling object.
->
+* The object that a method belongs to is called the calling object.
+
 > The this keyword refers to the calling object and can be used to access properties of the calling object.
 >
 > Methods do not automatically have access to other internal properties of the calling object.
