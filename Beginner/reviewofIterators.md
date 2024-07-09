@@ -2,7 +2,7 @@
 
 * .forEach() is used to execute the same code on every element in an array but does not change the array and returns undefined.
 
-.map() executes the same code on every element in an array and returns a new array with the updated elements.
+* .map() executes the same code on every element in an array and returns a new array with the updated elements.
 
 .filter() checks every element in an array to see if it meets certain criteria and returns a new array with the elements that return truthy for the criteria.
 
