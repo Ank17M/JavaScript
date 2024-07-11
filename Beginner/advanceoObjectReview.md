@@ -17,7 +17,7 @@
 * Setters and getter methods allow for more detailed ways of accessing and assigning properties.
 
 * Factory functions allow us to create object instances quickly and repeatedly.
->
+
 > There are different ways to use object destructuring: one way is the property value shorthand and another is destructured assignment.
 >
 > As with any concept, it is a good skill to learn how to use the documentation with objects!
