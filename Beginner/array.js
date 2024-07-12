@@ -9,7 +9,6 @@ secretMessage.push('to', 'program');
 secretMessage[7] = 'right';
 
 secretMessage.shift();
-//console.log(secretMessage);
 
 secretMessage.unshift('Programming');
 //console.log(secretMessage);
