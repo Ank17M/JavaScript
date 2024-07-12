@@ -5,7 +5,6 @@ let secretMessage = ['Learning', 'is', 'not', 'about', 'what', 'you', 'get', 'ea
 secretMessage.pop();
 
 secretMessage.push('to', 'program');
-//console.log(secretMessage);
 
 //console.log(secretMessage.indexOf('easily', 0));
 secretMessage[7] = 'right';
