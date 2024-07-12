@@ -6,7 +6,6 @@ secretMessage.pop();
 
 secretMessage.push('to', 'program');
 
-//console.log(secretMessage.indexOf('easily', 0));
 secretMessage[7] = 'right';
 
 secretMessage.shift();
