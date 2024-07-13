@@ -14,7 +14,6 @@ const robot = {
   
   console.log(robotEntries);
   
-  // Declare newRobot below this line:
   const newRobot = Object.assign(
     { laserBlaster: true, voiceRecognition: true },
     robot
