@@ -10,7 +10,6 @@ const robot = {
   
   console.log(robotKeys);
   
-  // Declare robotEntries below this line:
   const robotEntries = Object.entries(robot);
   
   console.log(robotEntries);
