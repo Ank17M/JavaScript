@@ -7,8 +7,6 @@ console.log(smallNumbers);
 
 const favoriteWords = ['nostalgia', 'hyperbole', 'fervent', 'esoteric', 'serene'];
 
-
-// Call .filter() on favoriteWords below
 const longFavoriteWords = favoriteWords.filter(favoriteWord => {
   return favoriteWord.length > 7;
 });
