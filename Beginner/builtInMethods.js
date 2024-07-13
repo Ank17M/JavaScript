@@ -6,7 +6,6 @@ const robot = {
     energyLevel: 75,
   };
   
-  // What is missing in the following method call?
   const robotKeys = Object.keys(robot);
   
   console.log(robotKeys);
