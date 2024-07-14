@@ -1,4 +1,4 @@
-
+//Getter
 
 const robot = {
     _model: '1E78V2',
