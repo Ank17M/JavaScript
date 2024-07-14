@@ -1,3 +1,3 @@
 //first  js program
 
-console.log('Hello World!!!');
+console.log('Hello JavaScript');
