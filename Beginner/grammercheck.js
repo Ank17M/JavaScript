@@ -47,5 +47,4 @@ console.log(findLongWordIndex);
 
 storyWords[findLongWordIndex] = 'glorious';
 
-
 console.log(storyWords.join(' '));
