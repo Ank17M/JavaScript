@@ -6,7 +6,7 @@ const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
     }
   };
   
-  // Write
+  //
   const isTwoPlusTwo = checkThatTwoPlusTwoEqualsFourAMillionTimes;
   
   isTwoPlusTwo();
