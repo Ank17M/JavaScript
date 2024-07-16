@@ -1,6 +1,6 @@
 const animals = ['Hen', 'elephant', 'llama', 'leopard', 'ostrich', 'Whale', 'octopus', 'rabbit', 'lion', 'dog'];
 
-// Create the secretMessage array
+// Create the secretMessage
 const secretMessage = animals.map(animal => {
   return animal[0];
 });
