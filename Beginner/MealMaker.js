@@ -24,4 +24,3 @@ const menu = {
   menu.price = 33;
   
   console.log(menu.todaysSpecial);
-  
