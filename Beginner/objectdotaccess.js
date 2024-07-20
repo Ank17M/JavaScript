@@ -7,7 +7,7 @@ let spaceship = {
 };
   
 const crewCount = spaceship.numCrew;
-  const planetArray = spaceship.flightPath;
+const planetArray = spaceship.flightPath;
   
   console.log(crewCount);
   console.log(planetArray);
