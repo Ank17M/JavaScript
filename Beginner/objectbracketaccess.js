@@ -7,7 +7,7 @@ let spaceship = {
   
   let propName =  'Active Mission';
 
-  // Write your code below
+  // Write your code
   let isActive = spaceship['Active Mission'];
   console.log(isActive);
   console.log(spaceship['Active Mission']);
