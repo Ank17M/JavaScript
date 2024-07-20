@@ -6,7 +6,7 @@ let spaceship = {
     flightPath: ['Venus', 'Mars', 'Saturn']
   };
   
-  // Write
+  //
   const crewCount = spaceship.numCrew;
   const planetArray = spaceship.flightPath;
   
