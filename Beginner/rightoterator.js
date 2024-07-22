@@ -15,7 +15,7 @@ const word = cities.reduce((acc, currVal) => {
 
 console.log(word)
 
-// Choose a method that will return a new array
+//Choose a method that will return a new array
 const smallerNums = nums.map(num => num - 5);
 
 // Choose a method that will return a boolean value
