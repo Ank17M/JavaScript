@@ -12,7 +12,6 @@ const longCities = cities.filter(city => city.length > 7);
 const word = cities.reduce((acc, currVal) => {
   return acc + currVal[0]
 }, "C");
-
 console.log(word)
 
 //Choose a method that will return a new array 
