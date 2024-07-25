@@ -8,6 +8,6 @@
 
 * .findIndex() method returns the index of the first element of an array that satisfies a condition in the callback function. It returns -1 if none of the elements in the array satisfies the condition.
 
-* .reduce() iterates through an array and takes the values of the elements and returns a single value.
+* .reduce() method iterates through an array and takes the values of the elements and returns a single value.
 
 * All iterator methods take a callback function, which can be a pre-defined function, a function expression, or an arrow function.
