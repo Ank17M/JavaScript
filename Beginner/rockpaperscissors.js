@@ -63,5 +63,5 @@ const playGame = (userChoice, computerChoice) => {
 
 playGame();
 
-//console.log(getComputerChoice());
+//
 //
