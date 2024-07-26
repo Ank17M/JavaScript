@@ -62,4 +62,3 @@ const playGame = (userChoice, computerChoice) => {
 }
 
 playGame();
-
