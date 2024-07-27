@@ -52,7 +52,7 @@ const getSleepHours = (day) => {
   console.log(calculateSleepDebt());
   
   //Test Calls
-  //console.log(getIdealSleepHours());
+  //
   //console.log(getActualSleepHours());
   //console.log(getSleepHours('monday'));
   
