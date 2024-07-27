@@ -53,6 +53,6 @@ const getSleepHours = (day) => {
   
   //Test Calls
   //
-  //console.log(getActualSleepHours());
+  //
   //console.log(getSleepHours('monday'));
   
