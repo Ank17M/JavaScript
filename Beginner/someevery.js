@@ -4,7 +4,7 @@ console.log(words.some((word) => {
   return word.length < 6;
 }));
 
-// Use filter to create a new array
+// Use filter to create
 const interestingWords = words.filter(word => {
   return word.length > 5;
 });
