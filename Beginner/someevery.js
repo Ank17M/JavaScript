@@ -4,7 +4,6 @@ console.log(words.some((word) => {
   return word.length < 6;
 }));
 
-// Use
 const interestingWords = words.filter(word => {
   return word.length > 5;
 });
