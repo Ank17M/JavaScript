@@ -57,6 +57,5 @@ const team = {
   team.addGame('Titans', 100, 98);
   //Test
   //
-  //
   console.log(team.players);
   console.log(team.games);
