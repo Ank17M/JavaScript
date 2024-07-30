@@ -58,6 +58,5 @@ const team = {
   //Test
   //
   //
-  //
   console.log(team.players);
   console.log(team.games);
