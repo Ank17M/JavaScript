@@ -56,7 +56,7 @@ const team = {
   team.addPlayer('Bugs', 'Bunny', 76);
   team.addGame('Titans', 100, 98);
   //Test
-  //console.log(team._players);
+  //
   //console.log(team._games);
   //console.log(team);
   console.log(team.players);
