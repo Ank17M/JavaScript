@@ -3,7 +3,7 @@ let spaceship = {
     homePlanet : 'Earth'
   };
   
-  // Write your
+  // Write
   const greenEnergy = obj => {
     obj['Fuel Type'] = 'avocado oil';
   };
