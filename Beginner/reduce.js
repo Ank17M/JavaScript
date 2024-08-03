@@ -18,7 +18,6 @@ function sumArray(numbers, initialValue = 0) {
   }, initialValue);
 }
 
-
 const newNumbers = [1, 3, 5, 7];
 const newSum = sumArray(newNumbers, 10);
 console.log(newSum); // Output: 26
