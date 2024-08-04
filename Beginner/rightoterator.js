@@ -2,7 +2,6 @@ const cities = ['Orlando', 'Dubai', 'Edinburgh', 'Chennai', 'Accra', 'Denver', '
 
 const nums = [1, 50, 75, 200, 350, 525, 1000];
 
-
 cities.forEach(city => console.log('Have you visited ' + city + '?'));
 
 //Choose a method that will return a new array
