@@ -6,7 +6,7 @@ cities.forEach(city => console.log('Have you visited ' + city + '?'));
 
 const longCities = cities.filter(city => city.length > 7);
 
-//Choose a
+//Choose
 const word = cities.reduce((acc, currVal) => {
   return acc + currVal[0]
 }, "C");
