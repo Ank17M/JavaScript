@@ -13,5 +13,5 @@ console.log(word)
 
 const smallerNums = nums.map(num => num - 5);
 
-//Choose a method that will
+//Choose a method that
 nums.some(num => num < 0);
