@@ -16,6 +16,6 @@ const addTwo = num => {
     }
   }
 
-  //Calling the function
+  //Calling the checkConsistentOutput function
   console.log(checkConsistentOutput(addTwo, 7));
   
