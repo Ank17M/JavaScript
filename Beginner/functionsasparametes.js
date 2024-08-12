@@ -15,6 +15,7 @@ const addTwo = num => {
       return 'inconsistent results';
     }
   }
-  
+
+  //
   console.log(checkConsistentOutput(addTwo, 7));
   
