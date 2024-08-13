@@ -11,5 +11,5 @@ const robot = {
       }
     }
   };
-  // Calling robot to test if it is working 
+  // Calling robot to test if it is working correctly 
   console.log(robot.energyLevel);
