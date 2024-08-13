@@ -11,5 +11,5 @@ const robot = {
       }
     }
   };
-  //
+  // Calling
   console.log(robot.energyLevel);
