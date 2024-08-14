@@ -12,5 +12,5 @@ const smallNumbers = bigNumbers.map(bigNumber => {
   return bigNumber/100;
 });
 
-//Calling 
+//Calling function 
 console.log(smallNumbers);
