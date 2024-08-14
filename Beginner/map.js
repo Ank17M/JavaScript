@@ -12,4 +12,5 @@ const smallNumbers = bigNumbers.map(bigNumber => {
   return bigNumber/100;
 });
 
+//
 console.log(smallNumbers);
