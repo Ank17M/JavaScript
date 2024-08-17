@@ -23,7 +23,7 @@ let spaceship = {
     }
 }; 
 
-//
+//Calling 
 for(let crewMember in spaceship.crew){
   console.log(`${crewMember} : ${spaceship.crew[crewMember].name}`);
 }
