@@ -1,4 +1,4 @@
-//Program for ''
+//Program for 'forinloop'
 let spaceship = {
     crew: {
     captain: { 
