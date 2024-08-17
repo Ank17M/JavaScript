@@ -1,4 +1,4 @@
-//Program for 
+//Program for ''
 let spaceship = {
     crew: {
     captain: { 
