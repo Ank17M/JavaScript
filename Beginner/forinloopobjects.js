@@ -27,7 +27,7 @@ let spaceship = {
 for(let crewMember in spaceship.crew){
   console.log(`${crewMember} : ${spaceship.crew[crewMember].name}`);
 }
-//Calling 'forinloop'
+//Calling "'forinloop'"
 for(let crewMember in spaceship.crew){
   console.log(`${spaceship.crew[crewMember].name} : ${spaceship.crew[crewMember].degree}`);
 }
