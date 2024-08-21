@@ -1,4 +1,4 @@
-//Program for object add
+//Program for object add, update
 let spaceship = {
     'Fuel Type' : 'Turbo Fuel',
     homePlanet : 'Earth',
