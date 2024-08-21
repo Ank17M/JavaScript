@@ -1,4 +1,4 @@
-//Program for 
+//Program for object 
 let spaceship = {
     'Fuel Type' : 'Turbo Fuel',
     homePlanet : 'Earth',
