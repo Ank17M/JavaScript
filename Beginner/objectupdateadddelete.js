@@ -12,7 +12,7 @@ let spaceship = {
   //adding
   spaceship['numEngines'] = 7;
 
-  //
+  //deleting
   delete spaceship['Secret Mission'];
   
   console.log(spaceship);
