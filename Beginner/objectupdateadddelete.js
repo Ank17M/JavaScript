@@ -8,6 +8,8 @@ let spaceship = {
   
   //updating
   spaceship['color'] = 'glorious gold';
+
+  //
   spaceship['numEngines'] = 7;
   delete spaceship['Secret Mission'];
   
