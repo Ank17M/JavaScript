@@ -11,7 +11,7 @@ let spaceship = {
     obj['disabled'] = true;
   };
   
-  //Calling the object
+  //Calling the object for 
   console.log(spaceship);
   greenEnergy(spaceship);
   remotelyDisable(spaceship);
