@@ -7,7 +7,7 @@ let spaceship = {
     obj['Fuel Type'] = 'avocado oil';
   };
   
-  //Creating function 
+  //Creating function to 
   const remotelyDisable = obj => {
     obj['disabled'] = true;
   };
