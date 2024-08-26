@@ -2,7 +2,7 @@ let spaceship = {
     'Fuel Type' : 'Turbo Fuel',
     homePlanet : 'Earth'
   };
-  //Creating function to 
+  //Creating function to add 
   const greenEnergy = obj => {
     obj['Fuel Type'] = 'avocado oil';
   };
