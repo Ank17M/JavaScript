@@ -2,7 +2,7 @@ let spaceship = {
     'Fuel Type' : 'Turbo Fuel',
     homePlanet : 'Earth'
   };
-  //Creating function to change  
+  //Creating function to change fuel  
   const greenEnergy = obj => {
     obj['Fuel Type'] = 'avocado oil';
   };
