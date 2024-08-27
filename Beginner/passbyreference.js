@@ -15,5 +15,7 @@ let spaceship = {
   //Calling the function greenEnergy for testing
   console.log(spaceship);
   greenEnergy(spaceship);
+  
+  //Calling the function remotelyDisable for testing
   remotelyDisable(spaceship);
   console.log(spaceship);
