@@ -5,7 +5,7 @@ const robot = {
       console.log(`Recharged! Energy is currently at ${this._energyLevel}%.`)
     }
   };
-  //Calling recharge
+  //Calling recharge function 
   robot.recharge();
   
   
