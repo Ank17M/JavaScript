@@ -1,4 +1,4 @@
-//Creating robot object 
+//Creating robot object with 
 const robot = {
     _energyLevel: 100,
     recharge(){
