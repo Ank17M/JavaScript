@@ -9,7 +9,7 @@ const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
 
   const isTwoPlusTwo = checkThatTwoPlusTwoEqualsFourAMillionTimes;
   
-  //Testing
+  //Testing function
   isTwoPlusTwo();
   
   console.log(isTwoPlusTwo.name);
