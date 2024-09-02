@@ -1,4 +1,4 @@
-//Creating Getter 
+//Creating Getter function
 
 const robot = {
     _model: '1E78V2',
