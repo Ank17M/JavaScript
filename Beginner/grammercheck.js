@@ -26,6 +26,7 @@ storyWords = storyWords.map((word) => {
   }
 });
 
+//
 const badWordIndex = storyWords.findIndex((word) => {
   return word === badWord;
 });
