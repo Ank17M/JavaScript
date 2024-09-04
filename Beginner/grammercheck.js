@@ -34,7 +34,7 @@ console.log(badWordIndex);
 
 storyWords[badWordIndex] = 'really';
 
-/
+// 
 const lengthCheck = storyWords.every((word) => {
   return word.length <= 10;
 });
