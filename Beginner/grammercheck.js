@@ -29,7 +29,7 @@ storyWords = storyWords.map((word) => {
 //function for badWord
 const badWordIndex = storyWords.findIndex((word) => {
   return word === badWord;
-});
+}); 
 console.log(badWordIndex);
 
 storyWords[badWordIndex] = 'really';
